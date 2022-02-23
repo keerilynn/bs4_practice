@@ -29,3 +29,4 @@ for job_element in python_job_elements:
     print(company_element.text.strip())
     print(location_element.text.strip())
     print("\n")
+    
