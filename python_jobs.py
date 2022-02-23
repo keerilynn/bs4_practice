@@ -30,3 +30,4 @@ for job_element in python_job_elements:
     print(location_element.text.strip())
     print("\n")
     
+#Job titles, companies, and locations are printed with a line break between each job posting. Only jobs that contain 'python' in the title are included.
